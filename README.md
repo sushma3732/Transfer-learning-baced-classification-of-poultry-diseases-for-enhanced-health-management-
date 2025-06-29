@@ -1,7 +1,4 @@
-# Transfer-learning-baced-classification-of-poultry-diseases-for-enhanced-health-management-
-To build a computer vision model using Transfer Learning to classify poultry diseases based on images of infected birds, supporting early detection and improved health management in poultry farms.
-DME
-🐔Transfer Learning-Based Classification of Poultry Diseases for Enhanced Health Management
+# Transfer-learning-baced-classification-of-poultry-diseases-for-enhanced-health management
 A Platform-as-a-Service (PaaS) solution for real-time monitoring of industrial chicken coops using AI/ML and image analysis. The system processes images captured from multiple cameras to detect early symptoms of poultry illness, helping poultry farms take preventive action quickly and efficiently.
 
 💡 Overview
